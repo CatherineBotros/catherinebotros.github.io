@@ -1,22 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@1,500&display=swap');
 
-div {
-  font-family: 'EB Garamond', serif;
-  font-size: 100px;
-  color: white;
-  text-align: center;
-}
-
-
-
-body{
-    background-image: url('https://media.giphy.com/media/3oz8xur099boo4N9aU/giphy.gif');
-    background-size: cover;
-    
-    
-    
-    height: 100vh;
-    padding:0;
-    margin:0;
+#myVideo{
+	position: fixed;
+	right: 0;
+	bottom: 0;
+	min-width: 100%;
+	min-height: 100%;
 }
 
